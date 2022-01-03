@@ -1,6 +1,6 @@
 # NUS_Deep-learning-in-robotics_Project-1
 
-# Instruction
+## Instruction
 
 - Libraries involved:
     - numpy
@@ -47,14 +47,14 @@
 
 # NUS_Deep-learning-in-robotics_Project-2
 
-# Introduction
+## Introduction
 
 - The programming environment is Jupyter Notebook.
 - The code trains a deep reinforcement learning model using DDPG algorithm.
 - The model is trained to reach the non-zero points in a 2D plane with continuous actions.
 - The model is expected to find the local nearest point before finding the others.
 
-# Main files
+## Main files
 
 - Complete code: Project2Code.ipynb
 - Training code: Project2Code-Training.ipynb
@@ -62,7 +62,7 @@
 - Trained model: The four files in "tmp/ddpg"
 - Requirements:   requirements.txt
 
-# Main Python libraries
+## Main Python libraries
 
 pytorch==1.10.0
 
@@ -76,7 +76,7 @@ matplotlib==3.3.4
 
 numpy==1.20.1
 
-# Training & Validation codes
+## Training & Validation codes
 
 - Code cells in the Complete code:
     - A: main code
